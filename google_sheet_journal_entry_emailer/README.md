@@ -1,6 +1,6 @@
 ## Google Sheet Journal Entry Emailer
 
-American novelist, Louisa May Alcott, once said “Preserve your memories, keep them well, what you forget you can never retell.”
+American novelist Louisa May Alcott once said, _'Preserve your memories, keep them well, what you forget you can never retell.'_
 
 I really like this quote, and it captures well why I've kept a journal since 2022, where I wrote down memories I'd like to recall in the future. I happen to use Google Sheets as my journal. I use the simplest of all formats: one column to store the date, and another column to store whatever I jot down for that day. Here's the format:
 
