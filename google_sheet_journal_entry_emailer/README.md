@@ -19,3 +19,18 @@ I've accumulated a bunch of entries over the years, and I like to be reminded of
 </p>
 
 Getting this email is a nice way to start my day and incetivizes me to journal more 🙂
+
+## Intructions
+
+Here are instructions if you want to set this up for yourself:
+1. Create Google Sheet with necessary columns by writing 'date' and 'memory' and cells A1 and B1, respectively. Replace tab name from 'Sheet1' to 'memories'
+2. Create a Google Apps Script by click on 'Extensions' in the menu bar and then selecting 'Apps Script'
+3. Replace the default code with the contents of [script.gs](https://github.com/nfeifel/animation/blob/main/google_sheet_journal_entry_emailer/script.gs)
+4. Save and name the script (I named mine 'Memory Reminder')
+5. Set up and manage triggers for the script by clicking on 'Triggers' in the left panel
+6. Click the Run (▶️) button to test the script at any point (remember: it will only send you an email if there's an entry from the same month+day in a previous year in the sheet)
+7. You'll have to authorize the script to be able to access Google Sheets and your emaail
+8. Enjoy waking up to emails reminding you have memories from the past!
+
+
+Needless to say, there's plenty of room from personalization here - from trigger cadences to the formatting of the content in the email - so don't hesitate to modify it to your liking.
